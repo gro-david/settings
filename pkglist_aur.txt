@@ -1,5 +1,0 @@
-playonlinux
-rider
-ulauncher
-unityhub-beta
-yay-git
